@@ -1,0 +1,4 @@
+,mId,mName,mDescr,mCoolDown,mLockedType,mAttackDist,mTolerance,mBulletSpeed,mFlyDist,mSkillType,mAttachPoint,mAnimType,mFilterStr,mBeforeSkillStr,mBeforePkStr,mBeforeEvnsStr,mEndEvnsStr,mEndPkStr,mEndSkillStr
+0,10101,Skill-1 Name,Skill-1 Descr,3,1,800,5,500,0,0,BulletPos,1,"circle,0,-1,500",,,,addbuff_20101,,
+1,10102,Skill-2 Name,Skill-2 Descr,5,1,800,5,500,0,0,BulletPos,2,"circle,0,-1,500",,,,,,
+2,10103,Skill-3 Name,Skill-3 Descr,7,0,800,5,500,1000,0,BulletPos,4,"circle,0,-1,500",,,,addbuff_20102,,
