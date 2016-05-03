@@ -1,4 +1,4 @@
----,mId,mName,mDescr,mHeath,mHeathMax,mFightInfo
-0,"9001","Hero-A","Descr-A","100.000000","200.000000","(mAttackPhy=10.000000,mLv=1)"
-1,"9002","Hero-B","Descr-B","130.000000","200.000000","(mAttackPhy=20.000000,mLv=2)"
-2,"9003","Hero-C","Descr-C","170.000000","200.000000","(mAttackPhy=30.000000,mLv=3)"
+---,mName,mDescr,mHeath,mHeathMax,mFightInfo
+9001,"Hero-A","Descr-A","100.000000","200.000000","(mAttackPhy=10.000000,mLv=1)"
+9002,"Hero-B","Descr-B","130.000000","200.000000","(mAttackPhy=20.000000,mLv=2)"
+9003,"Hero-C","Descr-C","170.000000","200.000000","(mAttackPhy=30.000000,mLv=3)"

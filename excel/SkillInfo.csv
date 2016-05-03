@@ -1,4 +1,4 @@
----,mId,mName,mDescr,mCoolDown,mLockedType,mAttackDist,mTolerance,mBulletSpeed,mFlyDist,mSkillType,mAttachPoint,mAnimType,mFilterStr,mBeforeSkillStr,mBeforePkStr,mBeforeEvnsStr,mEndEvnsStr,mEndPkStr,mEndSkillStr
-0,"10101","Skill-1 Name","Skill-1 Descr","3","Char","800","5","500","0","Normal","BulletPos","Skill_1","circle_0_-1_500","","","","addbuff_20101","",""
-1,"10102","Skill-2 Name","Skill-2 Descr","5","Char","800","5","500","0","Normal","BulletPos","Skill_2","circle_0_-1_500","","","","","",""
-2,"10103","Skill-3 Name","Skill-3 Descr","7","Loc","800","5","500","1000","Normal","BulletPos","Skill_4","circle_0_-1_500","","","","addbuff_20102","",""
+---,mName,mDescr,mCoolDown,mLockedType,mAttackDist,mTolerance,mBulletSpeed,mFlyDist,mSkillType,mAttachPoint,mAnimType,mFilterStr,mBeforeSkillStr,mBeforePkStr,mBeforeEvnsStr,mEndEvnsStr,mEndPkStr,mEndSkillStr
+10101,"Skill-1 Name","Skill-1 Descr","3","Char","800","5","500","0","Normal","BulletPos","Skill_1","circle_0_-1_500","","","","addbuff_20101","",""
+10102,"Skill-2 Name","Skill-2 Descr","5","Char","800","5","500","0","Normal","BulletPos","Skill_2","circle_0_-1_500","","","","","",""
+10103,"Skill-3 Name","Skill-3 Descr","7","Loc","800","5","500","1000","Normal","BulletPos","Skill_4","circle_0_-1_500","","","","addbuff_20102","",""
