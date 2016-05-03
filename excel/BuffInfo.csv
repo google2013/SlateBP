@@ -1,3 +1,3 @@
-,mId,mName,mDescr,mBuffTime,mCanDisperse,mCanAdd,mInterType,mInterTime,mBehavDataId,mAttrsStr,mBeforePkStr,mEndPkStr
-0,20101,Buff-1 Name,Buff-1 Descr,7,0,0,2,0,50112,suckhp_50,,
-1,20102,Buff-2 Name,Buff-2 Descr,3,0,0,2,0,50113,suckhp_20,,
+---,mId,mName,mDescr,mBuffTime,mCanDisperse,mCanAdd,mInterType,mInterTime,mBehavDataId,mAttrsStr,mBeforePkStr,mEndPkStr
+0,"20101","Buff-1 Name","Buff-1 Descr","7","False","False","Durable","0.000000","50112","suckhp_50","",""
+1,"20102","Buff-2 Name","Buff-2 Descr","3","False","False","Durable","0.000000","50113","suckhp_20","",""
